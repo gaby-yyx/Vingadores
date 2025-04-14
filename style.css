@@ -1,0 +1,46 @@
+body{
+    background-image: url(https://i.pinimg.com/736x/87/83/ec/8783ecfd67e9997a1b8d73e6877abbe6.jpg);
+    background-size: 100%;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+
+}
+hr{
+    height: 10px;
+    background-color: black;
+
+}
+a{
+    display: block ;
+    text-align: center ;
+    background-color: rgb(100, 17, 17);
+    color: white;
+    width: 200px;
+    margin: auto;
+    padding: 10px;
+    border-radius: 20px;
+
+
+}
+a:hover{
+    color: rgb(58, 0, 0);
+    font-size: 20px;
+    border-radius: 20px;
+    transition: 1s;
+}
+h2{
+    text-align: center;
+    
+}
+h3{
+    text-align: center;
+}
+img{
+    display: block;
+    margin: auto;
+    width: 50vw;
+    border-radius: 60px;
+
+}

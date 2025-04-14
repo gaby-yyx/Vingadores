@@ -1,0 +1,89 @@
+body{
+    background-image: url(https://i.pinimg.com/736x/87/83/ec/8783ecfd67e9997a1b8d73e6877abbe6.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    
+}
+h1{
+    text-align: center;
+    font-size: 70px;
+    color: rgb(255, 255, 255);
+}
+#menu{
+    border: solid 3px rgb(0, 0, 0);
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+#menu a{
+    text-decoration: none;
+    font-size: 30px;
+    color: rgb(234, 234, 234);
+    font-weight: 900;
+    background-color: rgb(0, 0, 56);
+    border-radius: 15px;
+    padding: 10px;
+
+
+    
+}
+#menu a:hover{
+    color: rgb(0, 0, 44);
+    font-size: 40px;
+    transition: 1s;
+
+
+}
+.herois{
+    border: solid 3px rgb(0, 0, 0);
+    min-height: 100vh;
+}
+#homemferro{
+    background-color: rgb(154, 8, 8);
+
+}
+#homemferro img{
+    display: block;
+    margin: auto;
+    width: 50vw;
+    border-radius: 40px;
+}
+#capitaoamerica{
+    background-color: rgb(6, 6, 123);
+}
+#capitaoamerica img{
+    display: block;
+    margin: auto;
+    width: 50vw;
+    border-radius: 40px;
+}
+#hulk img{
+    display: block;
+    margin: auto;
+    width: 50vw;
+    border-radius: 40px;
+}
+#hulk{
+    background-color: rgb(11, 103, 11);
+}
+#thor img{
+    display: block;
+    margin: auto;
+    width: 50vw;
+    border-radius: 40px;
+}
+#thor{
+    background-color: rgb(21, 21, 48);
+}
+h2{
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+h3{
+    text-align: center;
+    color: white;
+}
+
